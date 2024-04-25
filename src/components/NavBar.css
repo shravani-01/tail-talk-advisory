@@ -1,0 +1,38 @@
+.nav-link {
+    font-size: 20px; /* Increase font size */
+    margin-right: 10px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: inherit; /* Inherit color */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    font-weight: bold;
+    /* color: 	#E37383 !important; Change color on hover */
+    color:rgb(236, 236, 199) !important;
+    /* text-decoration: underline; Underline on hover */
+    border-bottom: 4px solid rgb(236, 236, 199) !important ;
+
+  }
+  .navbar-nav {
+    margin-left: auto; /* Move navbar items to the right */
+  }
+.navbar-brand{
+    font-size: 25px;
+    margin-left:10px;
+    font-family: "Dancing Script", 'cursive';
+    /* color: */
+
+}  
+
+.navbar-brand:hover{
+    color: 	rgb(236, 236, 199) !important;
+
+}
+/* .nav-link.active {
+    font-weight: bold;
+    color: white !important;
+    border-bottom: 4px solid white !important;
+  } */
+  
