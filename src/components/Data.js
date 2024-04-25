@@ -63,7 +63,7 @@ const Data = () => {
         </div>
 
         <p className="scrolldown">
-          <a className="smoothscroll" href="/tail-talk/data/#ourdata">
+          <a className="smoothscroll" href="/tail-talk-advisory/#/data/#/#ourdata">
             <i className="fa-solid fa-circle-arrow-down"></i>
           </a>
         </p>
