@@ -31,7 +31,7 @@ const Home = () => {
 
       <ul className="social">
                 <li className="button btn project-btn">
-                  <a href="/tail-talk/AI">
+                  <a href="/tail-talk-advisory/#/AI">
                     <b>Chat Now</b> &nbsp;
                   <i className="fa-solid fa-arrow-up-right-from-square"></i>
                   </a>

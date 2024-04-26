@@ -15,11 +15,12 @@ import Team from './components/Team';
 
 const App = () => {
     return (
+        // <Router basename='tail-talk-advisory' >
         <Router >
             <div className="app">
                 {/* <Navbarnew /> */}
                 <NavBar />
-                <Routes>
+                <Routes >
                     <Route path="/" element={<Home />} />
                     <Route path="/AI" element= {<AI />} />                  
                     <Route path="/data" element={<Data />} />

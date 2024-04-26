@@ -63,7 +63,8 @@ const Data = () => {
         </div>
 
         <p className="scrolldown">
-          <a className="smoothscroll" href="/tail-talk-advisory/#/data/#/#ourdata">
+        {/* /tail-talk-advisory/#/data */}
+          <a className="smoothscroll" href="/tail-talk-advisory/#/data#ourdata">
             <i className="fa-solid fa-circle-arrow-down"></i>
           </a>
         </p>
@@ -107,6 +108,8 @@ const Data = () => {
                     {/* <h2>Book 1</h2>
                     <p>We provide innovative pet care solutions powered by AI technology, helping pet owners ensure the well-being of their furry friends.</p> */}
                     <img src={book3} alt="Left Image" />
+                    {/* <p>Number of Pages: Approximately 300 pages</p>
+                    <p>This PDF provides a case-based approach to veterinary clinical pathology, presenting real-world scenarios and discussing diagnostic techniques, interpretation of laboratory results, and treatment recommendations. It covers various aspects of clinical pathology, including hematology, cytology, clinical chemistry, and urinalysis.</p> */}
 
                     </div>
                 </div>
@@ -116,6 +119,8 @@ const Data = () => {
                     {/* <h2>How We Do It?</h2>
                     <p>Our AI ChatBot analyzes pet data and behavior patterns to offer personalized recommendations for nutrition, exercise, health care, and more.</p> */}
                     <img src={book4} alt="Left Image" />
+                    {/* <p>Number of Pages: Approximately 250 pages</p>
+                    <p>This PDF offers comprehensive guidance on cat care, covering topics such as nutrition, grooming, behavior, health care, and environmental enrichment. It emphasizes natural and holistic approaches to cat care, including recommendations for natural diets, herbal remedies, and environmental modifications to promote overall well-being.</p> */}
                     </div>
                 </div>
                 </div>
