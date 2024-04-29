@@ -30,68 +30,7 @@ const Team = () => {
       <h2 className='team-header'>Meet the Team</h2>
     </div>
 
-    {/* <div><flowise-fullchatbot></flowise-fullchatbot></div> */}
-  
    
-    {/* Team members section */}
-    {/* <div className="container"> */}
-    
-{/*      
-      <Row className="align-items-center content teamintro my-4">
-      <Col md={6} className="text-center order-md-2">
-      <div className='about-container'>
-  <div className="about-content">
-    
-    <div className="about-card about-left animate">
-      <div className="about-text">
-        <h2>Shravani Hariprasad</h2>
-        <div className='profile-icons'>
-                <Link
-                  className='social-icon-link linkedin'
-                  to='/'
-                  target='_blank'
-                  aria-label='Linked In'
-                >
-                  <i className="fa-brands fa-linkedin"></i>
-                </Link>
-                <Link
-                  className='social-icon-link github'
-                  to='/'
-                  target='_blank'
-                  aria-label='GitHub'
-                >
-                  <i className="fa-brands fa-github"></i>
-                </Link>
-              </div>
-        {/* <p>We provide innovative pet care solutions powered by AI technology, helping pet owners ensure the well-being of their furry friends.</p> */}
-        {/* <p className="lead">
-                Inspired by my beloved guinea pigs, I created an AI application for pet care. Luna's passing due to pneumonia motivated me to develop a tool that could provide real-time support for pet owners.
-              </p>
-              <p className="lead">
-                I trained LLMs, implemented the RAG approach, and built a responsive and interactive website using React.js.
-              </p>
-              <p className="lead">
-                Outside of tech, I enjoy sketching, exploring art, and dancing. These creative outlets not only fuel my work but also add a unique perspective to my projects.
-              </p> */}
-        {/* <img src={img1} alt="Left Image" className="about-image" /> */}
-        {/* <img src={img1} alt="Left Image" style={{ width: '100%', height: '100%', objectFit: 'cover' }} /> */}
-
-      {/* </div>
-    </div>
-    </div>
-    </div>
-    </Col>
-    <Col md={6} className="text-center order-md-1">
-        <div className="row justify-content-center">
-            <div className="col-10 col-lg-6 profilepic">
-                <img className="img-fluid w-60 " src={shra} alt="" />
-            </div>
-        </div>
-    </Col>
-</Row> */} 
-
-
-
 <Row className="align-items-center content teamintro my-4">
 <Col md={4} className="text-center order-md-2 member">
         <div className='about-container'>

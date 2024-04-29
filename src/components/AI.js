@@ -14,6 +14,49 @@ const AI = () => {
             window.Chatbot.initFull({
                 chatflowid: "74168cdd-c1b0-4c74-b815-f52bd8660b2d",
                 apiHost: "https://fw.telaeris.com",
+                theme: {
+                    button: {
+                        // backgroundColor: "#332d2d",
+                        backgroundColor: 'white',
+                        right: 20,
+                        size: "medium",
+                        iconColor: "#332d2d",
+                        customIconSrc: "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg"
+                      },
+                    chatWindow: {
+                        welcomeMessage: "Hello! This is custom welcome message",
+                        backgroundColor: "white",
+                        height: 800,
+                        width: 1600,
+                        fontSize: 16,
+                        poweredByTextColor: "#ffffff",
+                        botMessage: {
+                            // backgroundColor: "#f7f8ff",
+                            backgroundColor: "#332d2d",
+                            textColor: "white",
+                            showAvatar: true,
+                            // avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png",
+                            avatarSrc: "https://upload.wikimedia.org/wikipedia/commons/5/51/Paw-print.svg",
+                        },
+                        userMessage: {
+                            // backgroundColor: "#3B81F6",
+                            // textColor: "#ffffff",
+                            backgroundColor: "#332d2d",
+                            textColor: "white",
+                            showAvatar: false,
+                            // avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png",
+                        },
+                        textInput: {
+                            placeholder: "Type your question",
+                            backgroundColor: "#ffffff",
+                            // textColor: "#303235",
+                            // backgroundColor: "#332d2d",
+                            textColor: "black",
+                            sendButtonColor: "black",
+                            // sendButtonColor: "#3B81F6",
+                        }
+                    }
+                }
                 
             });
         };
@@ -25,7 +68,8 @@ const AI = () => {
     }, []);
 
     return (
-        <div>
+        <div className="ai-container">
+            <br></br>
             <br></br>
             <br></br>
             <flowise-fullchatbot></flowise-fullchatbot>

@@ -25,7 +25,7 @@
     font-size: 8em;
     position: absolute ; 
     bottom: 550px ; 
-    left: 1000px ; 
+    left: 900px ; 
     color: white; 
     text-align: right;
 
@@ -43,3 +43,20 @@
       transform: translateY(0);
     }
   }
+
+  .prompt-analysis{
+    background-color: white;;
+
+  }
+  .promptanalysis-paragh{
+    text-align: center;
+    color: black;
+    font-size: 28px;
+
+  }
+  .promptanalysis-header{
+    color:black;
+    font-size:70px;
+    text-align:center;
+    margin:50px;
+}

@@ -20,6 +20,7 @@ const App = () => {
             <div className="app">
                 {/* <Navbarnew /> */}
                 <NavBar />
+                
                 <Routes >
                     <Route path="/" element={<Home />} />
                     <Route path="/AI" element= {<AI />} />                  

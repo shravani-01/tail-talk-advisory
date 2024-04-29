@@ -3,6 +3,7 @@ import ParticlesBg from "particles-bg";
 import React, { useState } from 'react';
 import { Slide } from 'react-awesome-reveal';
 import { Carousel, Col, Collapse, Row } from "react-bootstrap";
+import { Link } from 'react-router-dom';
 import llm from '../images/LLM-Preprocessing-1.jpg';
 import book1 from '../images/books/Book1.png';
 import book2 from '../images/books/Book2.png';
@@ -52,7 +53,7 @@ const Data = () => {
 
               <ul className="social">
                 <li className="button btn project-btn">
-                  <a href="#ourdata">
+                  <a href="https://drive.google.com/drive/folders/1TeX8z69E5RE9YJfrIKUjtWuRbPxPSYjm?usp=sharing">
                   <i class="fa-solid fa-database"></i>Data
                   </a>
                 </li>
@@ -64,9 +65,12 @@ const Data = () => {
 
         <p className="scrolldown">
         {/* /tail-talk-advisory/#/data */}
-          <a className="smoothscroll" href="/tail-talk-advisory/#/data#ourdata">
+          {/* <a className="smoothscroll" href="/tail-talk-advisory/#/data#ourdata">
             <i className="fa-solid fa-circle-arrow-down"></i>
-          </a>
+          </a> */}
+          <Link to="/tail-talk-advisory/#/data/#/#ourdata" className="smoothscroll">
+            <i className="fa-solid fa-circle-arrow-down"></i>
+        </Link>
         </p>
       </header>
 
