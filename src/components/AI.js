@@ -28,8 +28,8 @@ const AI = () => {
                         welcomeMessage: "Hello! This is a custom welcome message",
                         backgroundColor: "#ffe7d5",
                         // backgroundColor: "#FFD1DC",
-                        height: 800,
-                        width: 1500,
+                        height: 700,
+                        width: 1400,
                         fontSize: 16,
                         poweredByTextColor: "#ffe7d5",
                         botMessage: {
