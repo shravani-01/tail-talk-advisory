@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tail-talk-advisory/static/css/main.9cfc077c.css",
-    "main.js": "/tail-talk-advisory/static/js/main.a1d77955.js",
+    "main.css": "/tail-talk-advisory/static/css/main.b1357c09.css",
+    "main.js": "/tail-talk-advisory/static/js/main.bb869cc7.js",
     "static/media/Book2.png": "/tail-talk-advisory/static/media/Book2.560e4dd75c5364f3a556.png",
     "static/media/Book1.png": "/tail-talk-advisory/static/media/Book1.63963af360b3b20ae495.png",
     "static/media/Book4.png": "/tail-talk-advisory/static/media/Book4.51eeb93610864a708b4b.png",
@@ -35,6 +35,10 @@
     "static/media/LLMs.jpeg": "/tail-talk-advisory/static/media/LLMs.556aa0e76883c03c43c6.jpeg",
     "static/media/openaiembed.webp": "/tail-talk-advisory/static/media/openaiembed.c878a0ed168277148e00.webp",
     "static/media/fa-regular-400.ttf": "/tail-talk-advisory/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/wordcloud.png": "/tail-talk-advisory/static/media/wordcloud.b27e2c3b6cf2c1224808.png",
+    "static/media/messagefreq.png": "/tail-talk-advisory/static/media/messagefreq.af5598c0d94c4662e378.png",
+    "static/media/graph.png": "/tail-talk-advisory/static/media/graph.5802f932958738fc091d.png",
+    "static/media/sentianalysis.png": "/tail-talk-advisory/static/media/sentianalysis.96ed82f68113e980969b.png",
     "static/media/fa-regular-400.woff2": "/tail-talk-advisory/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
     "static/media/mistralimg.webp": "/tail-talk-advisory/static/media/mistralimg.2d56848f33323a43f007.webp",
     "static/media/young-female-entrepreneur-works-from-home-office-sitting-her-laptop-with-her-dog-by-her-side-created-with-generative-ai-technology_132358-12174.jpg.avif": "/tail-talk-advisory/static/media/young-female-entrepreneur-works-from-home-office-sitting-her-laptop-with-her-dog-by-her-side-created-with-generative-ai-technology_132358-12174.jpg.e7324143a17a0ce24367.avif",
@@ -43,11 +47,11 @@
     "static/media/what-is-openai.webp": "/tail-talk-advisory/static/media/what-is-openai.c18dcb1f7c06ce47cf05.webp",
     "static/media/fa-v4compatibility.woff2": "/tail-talk-advisory/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/tail-talk-advisory/index.html",
-    "main.9cfc077c.css.map": "/tail-talk-advisory/static/css/main.9cfc077c.css.map",
-    "main.a1d77955.js.map": "/tail-talk-advisory/static/js/main.a1d77955.js.map"
+    "main.b1357c09.css.map": "/tail-talk-advisory/static/css/main.b1357c09.css.map",
+    "main.bb869cc7.js.map": "/tail-talk-advisory/static/js/main.bb869cc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cfc077c.css",
-    "static/js/main.a1d77955.js"
+    "static/css/main.b1357c09.css",
+    "static/js/main.bb869cc7.js"
   ]
 }
