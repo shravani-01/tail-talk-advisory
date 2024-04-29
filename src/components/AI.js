@@ -29,7 +29,7 @@ const AI = () => {
                         backgroundColor: "#ffe7d5",
                         // backgroundColor: "#FFD1DC",
                         height: 700,
-                        width: 1400,
+                        width: 1450,
                         fontSize: 16,
                         poweredByTextColor: "#ffe7d5",
                         botMessage: {
