@@ -25,7 +25,7 @@ const AI = () => {
                         customIconSrc: "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg"
                       },
                     chatWindow: {
-                        welcomeMessage: "Hello! This is custom welcome message",
+                        welcomeMessage: "Hello! This is a custom welcome message",
                         backgroundColor: "#ffe7d5",
                         // backgroundColor: "#FFD1DC",
                         height: 800,

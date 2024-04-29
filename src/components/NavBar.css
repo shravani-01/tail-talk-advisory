@@ -10,9 +10,9 @@
   .navbar-nav .nav-link:hover {
     font-weight: bold;
     /* color: 	#E37383 !important; Change color on hover */
-    color:rgb(236, 236, 199) !important;
+    color:#ffc7b0 !important;
     /* text-decoration: underline; Underline on hover */
-    border-bottom: 4px solid rgb(236, 236, 199) !important ;
+    border-bottom: 4px solid #ffc7b0!important ;
 
   }
   .navbar-nav {
@@ -27,7 +27,7 @@
 }  
 
 .navbar-brand:hover{
-    color: 	rgb(236, 236, 199) !important;
+    color: 	#ffc7b0 !important;
 
 }
 /* .nav-link.active {

@@ -30,7 +30,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link gmail'
-              to='shariprasad3296@sdsu.edu'
+              to='mailto:shariprasad3296@sdsu.edu'
               target='_blank'
               aria-label='Gmail'
             >

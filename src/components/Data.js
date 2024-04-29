@@ -3,7 +3,6 @@ import ParticlesBg from "particles-bg";
 import React, { useState } from 'react';
 import { Slide } from 'react-awesome-reveal';
 import { Carousel, Col, Collapse, Row } from "react-bootstrap";
-import { Link } from 'react-router-dom';
 import llm from '../images/LLM-Preprocessing-1.jpg';
 import book1 from '../images/books/Book1.png';
 import book2 from '../images/books/Book2.png';
@@ -63,15 +62,15 @@ const Data = () => {
           </div>
         </div>
 
-        <p className="scrolldown">
+        {/* <p className="scrolldown">
         {/* /tail-talk-advisory/#/data */}
           {/* <a className="smoothscroll" href="/tail-talk-advisory/#/data#ourdata">
             <i className="fa-solid fa-circle-arrow-down"></i>
           </a> */}
-          <Link to="/tail-talk-advisory/#/data/#ourdata" className="smoothscroll">
+          {/* <Link to="/tail-talk-advisory/#/data/#ourdata" className="smoothscroll">
             <i className="fa-solid fa-circle-arrow-down"></i>
         </Link>
-        </p>
+        </p> */} 
       </header>
 
       {/* overview section */}

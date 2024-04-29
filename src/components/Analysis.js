@@ -45,6 +45,7 @@ const Analysis = () => {
     </div>
 
     <hr></hr>
+    <Fade>
     <div className='prompt-analysis'>
       <br></br>
       <h2 className='promptanalysis-header'>ChatBot Prompt Analysis</h2>
@@ -93,7 +94,7 @@ const Analysis = () => {
             <br></br>
             <br></br>
     </div>
-
+    </Fade>
 
 
 
