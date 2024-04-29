@@ -68,7 +68,7 @@ const Data = () => {
           {/* <a className="smoothscroll" href="/tail-talk-advisory/#/data#ourdata">
             <i className="fa-solid fa-circle-arrow-down"></i>
           </a> */}
-          <Link to="/tail-talk-advisory/#/data/#/#ourdata" className="smoothscroll">
+          <Link to="/tail-talk-advisory/#/data/#ourdata" className="smoothscroll">
             <i className="fa-solid fa-circle-arrow-down"></i>
         </Link>
         </p>
