@@ -141,9 +141,9 @@ const RAG = () => {
     <Col sm={12} md={6} className="text-center mx-auto">
         <br />
 
-        <Fade left>
+        {/* <Fade left> */}
         <img className="img-fluid" style={{ width: '70%' }} src={lossplot} alt="prompt Analysis" />
-        </Fade>
+        {/* </Fade> */}
         <br />
     </Col>
     <Col sm={12} md={6} className="text-center mx-auto">
@@ -151,9 +151,9 @@ const RAG = () => {
         {/* word cloud */}
         {/* <h2 className='promptanalysis-paragh'>Message Frequency</h2> */}
         {/* <p className='promptanalysis-paragh'>This is a word cloud..cbjebckebkebkvbvbueecbbiurhfkjbckc</p> */}
-        <Fade right>
+        {/* <Fade right> */}
         <img className="img-fluid" style={{ width: '70%' }} src={lossstats} alt="prompt Analysis" />
-        </Fade>
+        {/* </Fade> */}
         <br />
     </Col>
 </Row>
