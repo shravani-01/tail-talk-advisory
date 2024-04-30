@@ -9,9 +9,6 @@ import chatscreenshot3 from '../images/chatscreenshot3.png'; // Import screensho
 import chatscreenshot4 from '../images/chatscreenshot4.png'; // Import screenshots
 import chatscreenshot5 from '../images/chatscreenshot5.png'; // Import screenshots
 import chatscreenshot6 from '../images/chatscreenshot6.png'; // Import screenshots
-import chatscreenshot7 from '../images/chatscreenshot7.png'; // Import screenshots
-import chatscreenshot8 from '../images/chatscreenshot8.png'; // Import screenshots
-import chatscreenshot9 from '../images/chatscreenshot9.png'; // Import screenshots
 
 
 
@@ -77,7 +74,7 @@ const RAG = () => {
                         <img className="img-fluid" style={{ maxWidth: '95%', height: 'auto' }} src={chatscreenshot6} alt="Chatbot Screenshot 1" />
                     </div>
                     <br></br>
-                    <div className="chat-screenshot ">
+                    {/* <div className="chat-screenshot ">
                         <img className="img-fluid" style={{ maxWidth: '95%', height: 'auto' }} src={chatscreenshot7} alt="Chatbot Screenshot 1" />
                     </div>
                     <br></br>
@@ -87,7 +84,7 @@ const RAG = () => {
                     <br></br>
                     <div className="chat-screenshot ">
                         <img className="img-fluid" style={{ maxWidth: '95%', height: 'auto' }} src={chatscreenshot9} alt="Chatbot Screenshot 1" />
-                    </div>
+                    </div> */}
                     <br></br>
                 </div>
             </div>

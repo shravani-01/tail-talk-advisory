@@ -245,7 +245,7 @@ const Data = () => {
                         </div>
                         <Collapse in={expandedItems.includes(2)}>
                             <div className="card-body">
-                                <p>The segmented text chunks are transformed into dense numerical representations, or embeddings, utilizing cutting-edge language models such as Hugging Face's 'intfloat/multilingual-e5-large'.</p>
+                                <p>The segmented text chunks are transformed into dense numerical representations, or embeddings, utilizing Open AI Embeddings.</p>
                             </div>
                         </Collapse>
                     </div>
@@ -273,7 +273,7 @@ const Data = () => {
                         </div>
                         <Collapse in={expandedItems.includes(4)}>
                             <div className="card-body">
-                                <p>Finally, the embeddings are organized into a vector database using FAISS, facilitating rapid similarity search and clustering for enhanced data exploration.</p>
+                                <p>Finally, the embeddings are organized into a Pinecone vector database, facilitating rapid similarity search and clustering for enhanced data exploration.</p>
                             </div>
                         </Collapse>
                     </div>

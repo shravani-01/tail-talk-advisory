@@ -17,10 +17,11 @@ const App = () => {
     return (
         // <Router basename='tail-talk-advisory' >
         <Router >
+            {/* <ScrollToTop> */}
             <div className="app">
                 {/* <Navbarnew /> */}
                 <NavBar />
-                
+
                 <Routes >
                     <Route path="/" element={<Home />} />
                     <Route path="/AI" element= {<AI />} />                  
@@ -32,6 +33,7 @@ const App = () => {
                 </Routes>
                 <Footer />
             </div>
+            {/* </ScrollToTop> */}
         </Router>
     );
 }
