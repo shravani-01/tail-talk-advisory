@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/tail-talk-advisory/static/css/main.c8324ba4.css",
-    "main.js": "/tail-talk-advisory/static/js/main.871a0edf.js",
+    "main.css": "/tail-talk-advisory/static/css/main.2b10386a.css",
+    "main.js": "/tail-talk-advisory/static/js/main.875321ef.js",
     "static/media/Book2.png": "/tail-talk-advisory/static/media/Book2.560e4dd75c5364f3a556.png",
     "static/media/Book1.png": "/tail-talk-advisory/static/media/Book1.63963af360b3b20ae495.png",
     "static/media/Book4.png": "/tail-talk-advisory/static/media/Book4.51eeb93610864a708b4b.png",
     "static/media/analytics.gif": "/tail-talk-advisory/static/media/analytics.97768d4a217fd6d6d09a.gif",
+    "static/media/team1.gif": "/tail-talk-advisory/static/media/team1.50d0147f1d85e3d91318.gif",
     "static/media/sharanya.png": "/tail-talk-advisory/static/media/sharanya.dd45608009aa8cf3501f.png",
     "static/media/Book3.png": "/tail-talk-advisory/static/media/Book3.0aca56b878a9e4e10d01.png",
     "static/media/shra_pic.png": "/tail-talk-advisory/static/media/shra_pic.e698e6bc81c233ab6128.png",
@@ -20,7 +21,6 @@
     "static/media/gpt3img.png": "/tail-talk-advisory/static/media/gpt3img.d649057798a400ca7816.png",
     "static/media/simran.jpeg": "/tail-talk-advisory/static/media/simran.146b4473e2c53bc479c5.jpeg",
     "static/media/cat-dog.jpg": "/tail-talk-advisory/static/media/cat-dog.e9a9b382f41365ffdf54.jpg",
-    "static/media/teamwork.jpeg": "/tail-talk-advisory/static/media/teamwork.b52e36377d4b3d596b26.jpeg",
     "static/media/botgif.gif": "/tail-talk-advisory/static/media/botgif.cbbb67852ab951ef4400.gif",
     "static/media/fa-brands-400.ttf": "/tail-talk-advisory/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/tail-talk-advisory/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
@@ -46,11 +46,11 @@
     "static/media/what-is-openai.webp": "/tail-talk-advisory/static/media/what-is-openai.c18dcb1f7c06ce47cf05.webp",
     "static/media/fa-v4compatibility.woff2": "/tail-talk-advisory/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/tail-talk-advisory/index.html",
-    "main.c8324ba4.css.map": "/tail-talk-advisory/static/css/main.c8324ba4.css.map",
-    "main.871a0edf.js.map": "/tail-talk-advisory/static/js/main.871a0edf.js.map"
+    "main.2b10386a.css.map": "/tail-talk-advisory/static/css/main.2b10386a.css.map",
+    "main.875321ef.js.map": "/tail-talk-advisory/static/js/main.875321ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8324ba4.css",
-    "static/js/main.871a0edf.js"
+    "static/css/main.2b10386a.css",
+    "static/js/main.875321ef.js"
   ]
 }
