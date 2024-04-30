@@ -54,6 +54,12 @@ const Home = () => {
     
       </div>
 
+       {/* Video Section */}
+       <div className='video'>
+      <iframe  width="860" height="515" src="https://www.youtube.com/embed/4ahwiHoFMl0?si=Ohy__2jcJYP91uiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+
+
     {/* About section */}
     <div className='about-container'>
   <div className="about-content">

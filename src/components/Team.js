@@ -90,7 +90,7 @@ const Team = () => {
                         <div className='profile-icons'>
                             <Link
                                 className='social-icon-link linkedin'
-                                to='/'
+                                to='https://www.linkedin.com/in/sharanya-akkone-b3b15b103/'
                                 target='_blank'
                                 aria-label='Linked In'
                             >
@@ -98,7 +98,7 @@ const Team = () => {
                             </Link>
                             <Link
                                 className='social-icon-link github'
-                                to='/'
+                                to='https://github.com/sharanya218'
                                 target='_blank'
                                 aria-label='GitHub'
                             >
@@ -133,7 +133,7 @@ const Team = () => {
                         <div className='profile-icons'>
                             <Link
                                 className='social-icon-link linkedin'
-                                to='/'
+                                to='https://www.linkedin.com/in/simran-solanki-89b4b2223/'
                                 target='_blank'
                                 aria-label='Linked In'
                             >
@@ -141,7 +141,7 @@ const Team = () => {
                             </Link>
                             <Link
                                 className='social-icon-link github'
-                                to='/'
+                                to='https://github.com/simran98solanki'
                                 target='_blank'
                                 aria-label='GitHub'
                             >
